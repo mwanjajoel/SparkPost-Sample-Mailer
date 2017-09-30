@@ -1,0 +1,15 @@
+{
+  "name": "konymail",
+  "version": "1.0.0",
+  "description": "Email Blast for Kony Movie 2017 Orders from Above",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "kony",
+    "mail"
+  ],
+  "author": "mwanjajoel",
+  "license": "ISC"
+}
